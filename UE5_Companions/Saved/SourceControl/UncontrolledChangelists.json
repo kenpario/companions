@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UL/YYYQEDF1UM7V2OYTZ2XORQ.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_Rune.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/OM/F0TYBPRPTL1AL2CHVSY3J6.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_Rune_Material.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/StarterContent/Particles/P_Sparks.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_Control_UI.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/companion_64.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_UI_On_Screen.uasset"
+			]
+		}
+	]
+}
