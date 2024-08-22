@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Mario/Unreal Projects/companions/UE5_Companions/Content/Companions/BP_Companion.uasset",
+				"D:/Mario/Unreal Projects/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JT/928M9NGF3QJY7JYMMLFF2L.uasset",
+				"D:/Mario/Unreal Projects/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/ASZNMJQIZJYTSLGIN0J6IK.uasset",
+				"D:/Mario/Unreal Projects/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QN/G113Q8VGYVVUNW7Z0JXD8A.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UL/YYYQEDF1UM7V2OYTZ2XORQ.uasset",
