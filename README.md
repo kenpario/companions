@@ -7,4 +7,6 @@ Video preview : [https://vimeo.com/994597307](https://vimeo.com/1001743469)
 
 Press "P" key to open the companion menu to summon and unsummon it.
 
+Press "LShift" to sprint so the companion character changes into companion rune.
+
 Made only with blueprints, easily readable with comments everywhere and specific variable names.
