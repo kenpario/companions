@@ -7,16 +7,24 @@
 			"files": [
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion.uasset",
-				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UL/YYYQEDF1UM7V2OYTZ2XORQ.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_Rune.uasset",
-				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/OM/F0TYBPRPTL1AL2CHVSY3J6.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_Rune_Material.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/StarterContent/Particles/P_Sparks.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_Control_UI.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/companion_64.uasset",
-				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_UI_On_Screen.uasset"
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/Companion_UI_On_Screen.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/BP_Companion.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TP/09FM7JGA5W92AB6GVTTB5W.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/94/LG70C8AV36R3FE0HEKNIM1.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EF/HNUGLNMI0GX0XI4KDNFZ7E.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3W/J2ICKWPR6CA1XY8FJAYHMP.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/Companions/BP_Companion_Rune.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CY/OLRWTWFTITDLLOS6VQHMH7.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UL/YYYQEDF1UM7V2OYTZ2XORQ.uasset",
+				"D:/Unreal Engine Games/Companions/companions/UE5_Companions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/OM/F0TYBPRPTL1AL2CHVSY3J6.uasset"
 			]
 		}
 	]
